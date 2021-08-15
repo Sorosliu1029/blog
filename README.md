@@ -1,2 +1,2 @@
-Source code for My personal blog
+Source code for my personal blog
 
