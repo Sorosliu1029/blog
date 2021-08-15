@@ -1,0 +1,38 @@
+baseURL: 'https://blog.sorosliu.xyz/'
+languageCode: 'en-us'
+title: '时光机'
+theme: 'hugo-tania'
+publishdir: 'public'
+
+hasCJKLanguage: true
+timeZone: 'Asia/Shanghai'
+
+paginate: 10
+
+menu:
+    header:
+        - name: Aritcles
+          url: '/articles/'
+    footer:
+        - name: RSS
+          url: 'index.xml'
+
+params:
+    titleLogo: favicon.ico
+    enableFootnotes: true
+
+    # Show your socail information with icon on index bio with `_index.md` content.
+    socialOptions:
+        dev-to:
+        email:
+        facebook:
+        github:
+        instagram:
+        linkedin:
+        medium:
+        stack-overflow:
+        steam:
+        telegram:
+        twitter:
+        twitch:
+        whatsapp:
